@@ -28,36 +28,37 @@ Carpeta files: en esta carpeta se encuentra el archivo con la información de lo
  * mysql.connector Puedes encontrar la documentación oficial a través del siguiente [link](https://dev.mysql.com/doc/connector-python/en/connector-python-versions.html).
 
 ## Estructuras utilizadas
-Python:
 
-Clases
-Funciones
-Constructor
-Rutas relativas
-Condicionales If
-Bucles for
-Apertura y lectura de ficheros
-Listas
-Tuplas
-Diccionarios
-Métodos de strings
-Métodos de listas
-Métodos de tuplas
-Métodos de diccionarios
-Try...except
-mysql.connector
-Contol de errores
-Código defensivo
+* Python:
 
-SQL:
+    * Clases
+    * Funciones
+    * Constructor
+    * Rutas relativas
+    * Condicionales If
+    * Bucles for
+    * Apertura y lectura de ficheros
+    * Listas
+    * Tuplas
+    * Diccionarios
+    * Métodos de strings
+    * Métodos de listas
+    * Métodos de tuplas
+    * Métodos de diccionarios
+    * Try...except
+    * mysql.connector
+    * Contol de errores
+    * Código defensivo
 
-CREATE TABLE
-CREATE SCHEMA
-Tipos de datos
-AUTO_INCREMENT
-NOT NULL
-PRIMARY KEY
-FOREIGN KEY
-REFERENCES
-INSERT INTO
-VALUES
+* SQL:
+
+    * CREATE TABLE
+    * CREATE SCHEMA
+    * Tipos de datos
+    * AUTO_INCREMENT
+    * NOT NULL
+    * PRIMARY KEY
+    * FOREIGN KEY
+    * REFERENCES
+    * INSERT INTO
+    * VALUES
